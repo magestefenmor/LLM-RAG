@@ -36,7 +36,8 @@ Le projet permet d'interagir avec un **chatbot intelligent** qui répond aux que
 
 
 
-Instructions d'Installation et d'Exécution
+# **Instructions d'Installation et d'Exécution
+
 1. Création d'un environnement virtuel
 Avec Conda
 
