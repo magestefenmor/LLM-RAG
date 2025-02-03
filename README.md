@@ -36,9 +36,9 @@ Le projet permet d'interagir avec un **chatbot intelligent** qui répond aux que
 
 
 
-# **Instructions d'Installation et d'Exécution
+# ** Instructions d'Installation et d'Exécution
 
-1. Création d'un environnement virtuel
+1️⃣  Création d'un environnement virtuel
 Avec Conda
 
 Assurez-vous d'abord que Conda est installé sur votre système. Ensuite, créez et activez un environnement virtuel avec la commande suivante :
@@ -49,13 +49,13 @@ Avec Python (pour Linux/OS)
 
  - python3 -m venv /path/to/new_env && source /path/to/new_env/bin/activate
 
-2. Installation des dépendances
+2️⃣   Installation des dépendances
 
 Installez les packages Python nécessaires en exécutant :
 
  - pip install -r requirements.txt
 
-3. Exécution du web scraping
+3️⃣ Exécution du web scraping
 
 Pour effectuer le web scraping, lancez le script suivant :
 
@@ -71,13 +71,13 @@ Finalement, exécutez :
 
  - python Stockage.py
 
-4. Création des embeddings
+4️⃣ Création des embeddings
 
 Pour créer les embeddings et les stocker localement, utilisez la commande suivante :
 
  - python query_index.py
 
-5. Exécution de l'interface utilisateur de l'application
+5️⃣  Exécution de l'interface utilisateur de l'application
 
 Pour démarrer l'interface utilisateur, exécutez :
 
