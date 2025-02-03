@@ -1,0 +1,13 @@
+
+install langchain-huggingface
+llama-index
+langchain
+chainlit
+sentence-transformers>=2.2.2
+beautifulsoup
+requests
+transformers
+llama-index-embeddings-huggingface
+tqdm>=4.66.1
+chainlit
+pandas
